@@ -5,9 +5,8 @@
 - 📫 How to reach me TBA
 - ⚡ Fun fact: :3
 
-<h2>よこそう！</h2>
-<h2>Its bYo!</h2>
-<hr>
+<h2>よこそう！
+Its bYo!</h2>
 
 <p>Here are some stats :P</p>
 **TBA**
