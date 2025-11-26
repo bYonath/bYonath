@@ -5,7 +5,12 @@
 - 📫 How to reach me TBA
 - ⚡ Fun fact: :3
 
-<h1>Chat, Is this HTML?</h1>
+<h2>よこそう！</h2>
+<h2>Its bYo!</h2>
+<hr>
+
+<p>Here are some stats :P</p>
+**TBA**
 
 <!---
 bYonath/bYonath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
